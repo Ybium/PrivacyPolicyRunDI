@@ -1,6 +1,8 @@
 div
 {
-    border: 1px solid black;
+    border: 1px solid black;/* Параметры рамки */
+    padding: 5px; /* Поля вокруг текста */
+    margin-bottom: 5px; 
 }
 
 #Zag
@@ -10,4 +12,8 @@ div
 #Text
 {
     text-align: left;
-}
+}  
+.content {
+    width: 75%; /* Ширина слоя */
+    background: #fc0; /* Цвет фона */
+   }
