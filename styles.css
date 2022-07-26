@@ -1,5 +1,9 @@
-body
+div.Zag
 {
-    margin: 0;
     text-align: center;
+}
+
+div.Text
+{
+    text-align: left;
 }
